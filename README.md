@@ -1,2 +1,2 @@
 # MNIST
-Classifying Handwritten Digits using the MNIST Dataset and PyTorch
+Classifying Handwritten Digits from the MNIST Dataset using PyTorch and TensorFlow
